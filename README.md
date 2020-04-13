@@ -97,7 +97,9 @@ An updated and organized reading list for illustrating the patterns of scalable,
 * [Design for Scaling Out](https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/scale-out)	
 * [Design for Evolution](https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/design-for-evolution)
 * [Learn from Mistakes](http://highscalability.com/blog/2013/8/26/reddit-lessons-learned-from-mistakes-made-scaling-to-1-billi.html)
-
+* // add by yibogele //
+* [Immutable Log](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
+* [Load Balancing in Datacenter](https://landing.google.com/sre/sre-book/chapters/load-balancing-datacenter/)
 ## Scalability
 * [Microservices and Orchestration](https://martinfowler.com/microservices/)
 	* [Container (8 parts) at Riot Games](https://engineering.riotgames.com/news/thinking-inside-container)
@@ -122,6 +124,9 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Microservices at Nubank](https://medium.com/building-nubank/microservices-at-nubank-an-overview-2ebcb336c64d)
 	* [GRIT: Protocol for Distributed Transactions across Microservices at eBay](https://tech.ebayinc.com/engineering/grit-a-protocol-for-distributed-transactions-across-microservices/)
 	* [Rubix: Kubernetes at Palantir](https://medium.com/palantir/introducing-rubix-kubernetes-at-palantir-ab0ce16ea42e)
+	* // following add by yibogele //
+	* [Challenges of Adopting Service Mesh in Enterprise Organizations](https://dzone.com/articles/challenges-of-adopting-service-mesh-in-enterprise)
+	* [Java and Go Microservice series](https://callistaenterprise.se/blogg/teknik/2015/05/20/blog-series-building-microservices/)
 * [Distributed Caching](https://www.wix.engineering/single-post/scaling-to-100m-to-cache-or-not-to-cache)
 	* [EVCache: Distributed In-memory Caching at Netflix](https://medium.com/netflix-techblog/caching-for-a-global-netflix-7bcc457012f1)
 	* [EVCache Cache Warmer Infrastructure at Netflix](https://medium.com/netflix-techblog/cache-warming-agility-for-a-stateful-service-2d3b1da82642)
